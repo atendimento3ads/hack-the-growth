@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hackthegrowth.3ads.com.br/sitemap.xml

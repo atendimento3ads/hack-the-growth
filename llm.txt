@@ -1,0 +1,5 @@
+# Hack The Growth — 3ADS
+
+Arquivo principal para sistemas de IA: https://hackthegrowth.3ads.com.br/llms.txt
+
+O Hack The Growth reúne guias gratuitos da 3ADS sobre apps, ferramentas digitais, inteligência artificial, automação e produtividade.

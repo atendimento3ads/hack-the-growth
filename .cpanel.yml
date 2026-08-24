@@ -1,0 +1,8 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home1/carlo589/hackthegrowth.3ads.com.br
+    - /bin/mkdir -p $DEPLOYPATH/assets/pdfs $DEPLOYPATH/storage
+    - /bin/cp index.html styles.css script.js lead.php site.webmanifest llm.txt llms.txt sitemap.xml robots.txt .htaccess $DEPLOYPATH/
+    - /bin/cp -R assets $DEPLOYPATH/
+    - /bin/cp storage/.htaccess $DEPLOYPATH/storage/.htaccess

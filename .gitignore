@@ -1,0 +1,32 @@
+# Nunca versionar credenciais privadas do Google.
+**/google-sheets-key.json
+lead-config.php
+
+# Contém a chave compartilhada do webhook; não publicar junto do site.
+google-sheets-webhook.gs
+
+# Arquivos locais, temporários e artefatos de entrega.
+.DS_Store
+tmp/
+hack-the-growth-cpanel.zip
+preview-materiais.jpg
+3ads-design-system-visual*.html
+
+# Leads reais nunca devem entrar no Git.
+storage/*
+!storage/.htaccess
+
+# Materiais-fonte e versões antigas não usados pela landing page.
+assets/*.pdf
+assets/Guia*.pdf
+assets/GUIA-*-CAPA.png
+assets/BANNER-HTG-02*.png
+assets/HTG-LOGO-*.png
+assets/3ads-logo-light.png
+assets/3ads-logo-dark.png
+assets/material-*
+assets/banner-guias-3ads*
+assets/LP-GUIAS-3ADS-BANNER.png
+assets/geist-300.woff2
+assets/geist-500.woff2
+assets/pdfs/README.md

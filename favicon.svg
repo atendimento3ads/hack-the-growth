@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Hack The Growth">
+  <defs>
+    <linearGradient id="g" x1="10" y1="54" x2="54" y2="10" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#000aff"/>
+      <stop offset="1" stop-color="#38a8ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#030305"/>
+  <path d="M14 47V35h9v12H14Zm14 0V25h9v22h-9Zm14 0V15h9v32h-9Z" fill="url(#g)"/>
+  <path d="M13 51h39" fill="none" stroke="#fff" stroke-opacity=".72" stroke-width="2" stroke-linecap="round"/>
+</svg>

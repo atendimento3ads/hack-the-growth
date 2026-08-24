@@ -1,0 +1,18 @@
+{
+  "name": "Hack The Growth — 3ADS",
+  "short_name": "Hack The Growth",
+  "description": "Guias práticos de apps e ferramentas digitais para o dia a dia.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#030305",
+  "theme_color": "#030305",
+  "icons": [
+    {
+      "src": "assets/Group-86.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
