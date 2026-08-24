@@ -1,5 +1,5 @@
 const SPREADSHEET_ID = '1cOj6ioJXWb8jd3MiU98J-BMBGVelXquAsIJ5Q5-gw3Y';
-const SHEET_NAME = 'leads';
+const SHEET_NAME = 'Leads';
 const WEBHOOK_SECRET = 'COLE_A_MESMA_CHAVE_DO_LEAD_CONFIG';
 
 function doGet() {
